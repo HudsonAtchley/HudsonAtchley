@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @HudsonAtchley.
-- 👀 I’m interested in learning how to code and make the world a better place.
-- 🌱 I’m currently learning Java through AP Computer Science A.
-- 💞️ I’m looking to collaborate on fresh ideas.
+- Hi, I’m Hudson.
+- I’m learning how to code.
+- I’m currently learning Java through AP Computer Science A.
 - 📫 How to reach me ... Just send me a message.
 
 <!---
