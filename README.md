@@ -1,3 +1,3 @@
 - Hi, I’m Hudson.
 - I’m learning how to code.
-- I learned Java through AP Computer Science A. I am now learning Python.
+- I have learned JavaScript, Java, and Python.
